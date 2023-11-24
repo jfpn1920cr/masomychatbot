@@ -1,1 +1,1 @@
-# masomychatbot
+# bot-wp-masomy
